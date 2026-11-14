@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ALT-001",
+    "astronautId": "AST-001",
+    "category": "Performance change",
+    "severity": "attention",
+    "metric": "Force production",
+    "baseline": 120,
+    "current": 108,
+    "difference": -12,
+    "description": "Demonstration alert: force production differs from the stored baseline. This is not a diagnosis.",
+    "status": "open",
+    "missionPhase": "in-flight",
+    "createdAt": "2026-11-13T07:12:49.014Z",
+    "dataSource": "rule-based"
+  },
+  {
+    "id": "ALT-002",
+    "astronautId": "AST-002",
+    "category": "Exercise adherence",
+    "severity": "info",
+    "metric": "Completed sessions",
+    "baseline": null,
+    "current": 8,
+    "difference": null,
+    "description": "One or more prescribed demonstration sessions have not been marked completed.",
+    "status": "acknowledged",
+    "missionPhase": "in-flight",
+    "createdAt": "2026-11-12T07:12:49.014Z",
+    "dataSource": "rule-based"
+  }
+]

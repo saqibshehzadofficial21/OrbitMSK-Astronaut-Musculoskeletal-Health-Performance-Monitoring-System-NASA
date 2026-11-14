@@ -1,0 +1,50 @@
+[
+  {
+    "id": "BASE-001",
+    "astronautId": "AST-001",
+    "date": "2026-09-20T07:12:49.013Z",
+    "missionPhase": "preflight",
+    "forceProduction": 120,
+    "forceUnit": "N",
+    "movementVelocity": 1.5,
+    "velocityUnit": "m/s",
+    "jointRom": 112,
+    "romUnit": "deg",
+    "movementConsistency": 94,
+    "functionalScore": 88,
+    "notes": "Fictional baseline example.",
+    "dataSource": "simulated"
+  },
+  {
+    "id": "BASE-002",
+    "astronautId": "AST-002",
+    "date": "2026-09-25T07:12:49.013Z",
+    "missionPhase": "preflight",
+    "forceProduction": 116,
+    "forceUnit": "N",
+    "movementVelocity": 1.42,
+    "velocityUnit": "m/s",
+    "jointRom": 110,
+    "romUnit": "deg",
+    "movementConsistency": 92,
+    "functionalScore": 86,
+    "notes": "Fictional baseline example.",
+    "dataSource": "simulated"
+  },
+  {
+    "id": "BASE-003",
+    "astronautId": "AST-003",
+    "date": "2026-11-04T07:12:49.013Z",
+    "missionPhase": "preflight",
+    "forceProduction": 124,
+    "forceUnit": "N",
+    "movementVelocity": 1.54,
+    "velocityUnit": "m/s",
+    "jointRom": 114,
+    "romUnit": "deg",
+    "movementConsistency": 95,
+    "functionalScore": 91,
+    "notes": "Fictional baseline example.",
+    "dataSource": "simulated"
+  }
+]

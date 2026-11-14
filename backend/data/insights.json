@@ -1,0 +1,19 @@
+[
+  {
+    "id": "INS-001",
+    "astronautId": "AST-001",
+    "metric": "Force production",
+    "baseline": 120,
+    "current": 108,
+    "unit": "N",
+    "difference": -12,
+    "percentageChange": -10,
+    "severity": "attention",
+    "missionPhase": "in-flight",
+    "explanation": "The latest fictional demonstration measurement is 10% below the stored individual baseline. Review the measurement history and context.",
+    "suggestedAction": "Consider review by an authorised specialist if the change persists.",
+    "status": "new",
+    "createdAt": "2026-11-13T07:12:49.014Z",
+    "dataSource": "rule-based"
+  }
+]

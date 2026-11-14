@@ -1,0 +1,9 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Demo Administrator",
+    "role": "Administrator",
+    "email": "admin@example.test",
+    "dataSource": "simulated"
+  }
+]

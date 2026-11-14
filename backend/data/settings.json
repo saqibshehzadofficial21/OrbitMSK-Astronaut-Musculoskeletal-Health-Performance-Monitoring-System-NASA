@@ -1,0 +1,16 @@
+[
+  {
+    "id": "system",
+    "appName": "OrbitMSK",
+    "demoMode": true,
+    "analysisThresholds": {
+      "forceProductionPercent": 8,
+      "movementVelocityPercent": 8,
+      "jointRomPercent": 8,
+      "adherencePercent": 80
+    },
+    "thresholdNote": "Illustrative prototype thresholds only; not NASA-approved or clinical limits.",
+    "notifications": true,
+    "updatedAt": "2026-11-14T07:12:49.011Z"
+  }
+]

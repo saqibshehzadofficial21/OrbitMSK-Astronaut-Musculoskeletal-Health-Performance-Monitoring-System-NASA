@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MIS-ISS-26",
+    "name": "Expedition 74",
+    "code": "ISS-74",
+    "phase": "in-flight",
+    "startDate": "2026-09-15T07:12:49.013Z",
+    "endDate": "2027-03-14T07:12:49.013Z",
+    "status": "active",
+    "dataSource": "simulated"
+  },
+  {
+    "id": "MIS-LUNAR-27",
+    "name": "Lunar Analog 2027",
+    "code": "LUNA-27",
+    "phase": "preflight",
+    "startDate": "2026-11-29T07:12:49.013Z",
+    "endDate": "2027-05-13T07:12:49.013Z",
+    "status": "planned",
+    "dataSource": "simulated"
+  }
+]

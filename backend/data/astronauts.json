@@ -1,0 +1,44 @@
+[
+  {
+    "id": "AST-001",
+    "name": "Alex Morgan",
+    "missionId": "MIS-ISS-26",
+    "mission": "Expedition 74",
+    "role": "Flight Engineer",
+    "missionPhase": "in-flight",
+    "status": "active",
+    "email": "alex.morgan@example.test",
+    "notes": "Fictional demonstration profile.",
+    "createdAt": "2026-09-30T07:12:49.013Z",
+    "updatedAt": "2026-11-14T07:12:49.011Z",
+    "dataSource": "simulated"
+  },
+  {
+    "id": "AST-002",
+    "name": "Jordan Lee",
+    "missionId": "MIS-ISS-26",
+    "mission": "Expedition 74",
+    "role": "Mission Specialist",
+    "missionPhase": "in-flight",
+    "status": "active",
+    "email": "jordan.lee@example.test",
+    "notes": "Fictional demonstration profile.",
+    "createdAt": "2026-10-05T07:12:49.013Z",
+    "updatedAt": "2026-11-14T07:12:49.011Z",
+    "dataSource": "simulated"
+  },
+  {
+    "id": "AST-003",
+    "name": "Taylor Rivera",
+    "missionId": "MIS-LUNAR-27",
+    "mission": "Lunar Analog 2027",
+    "role": "Commander",
+    "missionPhase": "preflight",
+    "status": "training",
+    "email": "taylor.rivera@example.test",
+    "notes": "Fictional demonstration profile.",
+    "createdAt": "2026-10-25T07:12:49.013Z",
+    "updatedAt": "2026-11-14T07:12:49.011Z",
+    "dataSource": "simulated"
+  }
+]
